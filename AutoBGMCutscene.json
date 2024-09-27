@@ -1,0 +1,14 @@
+{
+    "Author": "Your Name",
+    "Name": "Auto BGM Cutscene",
+    "Punchline": "Automatically reactivates BGM during cutscenes",
+    "Description": "A plugin that ensures background music is enabled during cutscenes.",
+    "InternalName": "AutoBGMCutscene",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "bgm",
+      "cutscene",
+      "audio"
+    ]
+  }
+  
